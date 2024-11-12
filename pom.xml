@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>frt</groupId>
+  <artifactId>trt</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>EX</name>
+  <description>dd</description>
+  
+      <dependencies>
+    
+    
+    
+    <dependency>
+        <groupId>org.kordamp.bootstrapfx</groupId>
+        <artifactId>bootstrapfx-core</artifactId>
+        <version>0.2.4</version>
+    </dependency>
+    
+<dependency>
+    <groupId>com.github.javaparser</groupId>
+    <artifactId>javaparser-symbol-solver-core</artifactId>
+    <version>3.14.3</version>
+</dependency>
+    
+    
+    
+    
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+        <version>4.1.0</version>
+</dependency>
+  
+  </dependencies>
+  
+  
+</project>
